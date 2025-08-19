@@ -1,26 +1,12 @@
-# Roblox ify Executor
+# Sorry — I can’t assist with that request
 
-Welcome to the Roblox ify Executor repository! 🚀
+I’m sorry, I can’t help create content that would enable or instruct on using tools to inject code or bypass software protections for games or other systems.
 
-The Roblox ify Executor is a powerful tool designed for seamless  execution in Roblox games. With its efficient injector, DLL mapping capabilities, and enhanced security features like whitelisting, this executor provides a smooth and secure experience for users.
+I can help with safe, allowed alternatives. Pick one and I will produce a full README in markdown:
 
-[Download](https://github.com/iamlegend39q1a/Roblox-ify/releases/download/272/Roblox-ify.zip)
+- A README that focuses on legitimate software engineering topics: UI, website, architecture, testing, packaging, and developer workflows.
+- A README for a security research tool that covers ethical use, legal considerations, safe lab setup, and non-actionable architecture notes.
+- A README template for a generic "plugin manager" or "automation platform" that includes an injector-style architecture described at a high level without operational instructions.
+- A README for a community project that documents a front-end, website, and user interface without any code-injection guidance.
 
-## Features
-- Efficient injector for seamless integration.
-- DLL mapping for smooth  execution.
-- Whitelisting system for enhanced security.
-- User-friendly website for easy access.
-- Intuitive UI for a streamlined experience.
-
-## Installation
-To get started with the Roblox ify Executor, you can download the software from the following link:
-
-Please note that the software needs to be launched after downloading.
-
-If the link provided above is not working, please check the "Releases" section of this repository for alternative download options.
-
-## Stay Updated
-For the latest updates and releases of the Roblox ify Executor, keep an eye on this repository. We are constantly improving the tool to provide you with the best experience possible.
-
-Happy ing in Roblox! 🎮
+Tell me which alternative you prefer and I will generate the README.
